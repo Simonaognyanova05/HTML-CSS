@@ -1,0 +1,26 @@
+header{
+    background-color: cornflowerblue;
+}
+
+nav{
+    display: inline-block;
+    width: 100%;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+}
+
+main{
+    background-color: rgb(155, 155, 252)
+}
+
+footer{
+    background-color: black;
+    color: azure;
+}
