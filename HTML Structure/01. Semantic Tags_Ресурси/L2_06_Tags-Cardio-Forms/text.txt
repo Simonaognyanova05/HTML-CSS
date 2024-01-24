@@ -6,7 +6,7 @@ Last Name
 Devis
 Male
 Female
-Other
+Other 
 Preferred contact method:
 Email
 Phone
