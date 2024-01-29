@@ -1,0 +1,24 @@
+p .button{
+    border-color: rgb(51, 51, 51);
+    border-radius: 30px;
+    border-width: 3px;
+    border-style: solid;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(51, 51, 51);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+
+}
+h2{
+    margin-left: 20px;
+}

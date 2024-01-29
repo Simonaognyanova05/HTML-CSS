@@ -4,7 +4,7 @@ Problems for in-class lab for the [�HTML & CSS�](https://softuni.bg/training
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1234/CSS-Typography).
 
-## Tasks
+## Tasks 
 * Create an **"index.html"** file with title - **"Buttons CSS"**
 * Use **h2** tag for headings
 * Create nine buttons on three rows with class **button**
