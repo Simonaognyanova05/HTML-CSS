@@ -1,0 +1,6 @@
+.second-para{
+    background-color: lightgreen;
+    max-width: 1000px;
+    max-height: 100px;
+    overflow: auto;
+}
