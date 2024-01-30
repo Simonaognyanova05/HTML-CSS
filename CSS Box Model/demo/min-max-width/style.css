@@ -1,0 +1,9 @@
+.title{
+    background-color: rgb(183, 255, 231);
+    max-width: 1000px;
+}
+
+.some-text{
+    background-color: rgb(247, 174, 148);
+    min-width: 500px;
+}
