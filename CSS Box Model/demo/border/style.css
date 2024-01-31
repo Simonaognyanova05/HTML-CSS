@@ -1,0 +1,23 @@
+.padding{
+    background-color: lightblue;
+}
+
+.margin{
+    background-color: darkblue;
+}
+
+.border{
+    background-color: lightgreen;
+    border: 4px solid;
+    border-radius: 10px;
+}
+
+.padding-div{
+    background-color: lightcoral;
+    padding: 30px;
+}
+
+.margin-div{
+    background-color: aqua;
+    margin: 30px 30px;
+}
