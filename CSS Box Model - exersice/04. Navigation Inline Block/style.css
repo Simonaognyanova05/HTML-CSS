@@ -1,0 +1,31 @@
+body{
+    font-family: Helvetica, sans-serif;
+}
+
+article{
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+}
+nav, h1, ul, li{
+    display: inline-block;
+}
+
+ul{
+    color: green;
+    margin-left: 50px;
+}
+
+li{
+    margin: 10px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 40px;
+    font-weight: lighter;
+}
+hr{
+    border: 1px solid;
+}
