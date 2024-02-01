@@ -1,0 +1,15 @@
+body{
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(238, 238, 238);
+    color: rgb(51, 51, 51);
+}
+
+article{
+    width: 50%;
+    margin: auto;
+}
+
+img{
+    width: 550px;
+    height: 400px;
+}
