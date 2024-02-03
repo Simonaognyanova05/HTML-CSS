@@ -1,0 +1,19 @@
+article{
+    background-color: lightblue;
+    padding: 40px;
+}
+
+/* for navbar */
+div{
+    background-color: red;
+    position: sticky;
+    padding: 20px;
+    top: 50px;
+    right: 50px;
+    
+}
+
+.position{
+    background-color: lightgreen;
+    padding-left: 100px;
+}
