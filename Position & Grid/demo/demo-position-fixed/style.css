@@ -1,16 +1,16 @@
 article{
     background-color: lightblue;
     padding: 40px;
-    position: relative;
 }
 
+/* for navbar */
 div{
     background-color: red;
     padding: 20px;
-    margin: 20px, 20px, 20px, 20px;
-    position: absolute;
-    bottom: 0;
-    right: 0;
+    top: 0;
+    left: 0;
+    position: fixed;
+    
 }
 
 .position{
