@@ -1,0 +1,28 @@
+#hero{
+    height: 100vh;
+    background-image: url('https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg');
+    background-repeat: none;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+#hero .overlay{
+    position: absolute;
+    background-color: black;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.6;
+}
+
+#hero h1{
+    font-size: 5rem;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 120px;
+    text-transform: uppercase;
+    color: #fff;
+}
