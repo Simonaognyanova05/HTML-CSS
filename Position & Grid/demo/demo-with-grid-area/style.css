@@ -1,0 +1,27 @@
+header, aside, main, footer{
+    background-color: lightblue;
+    padding: 2rem;
+    border-radius: 12px;
+}
+body{
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 20px;
+    grid-template-areas: 
+    "header header"
+    "aside main"
+    "footer footer";
+}
+
+header{
+    grid-area: header;
+}
+aside{
+    grid-area: aside;
+}
+main{
+    grid-area: main;
+}
+footer{
+    grid-area: footer;
+}
