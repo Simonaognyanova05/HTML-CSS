@@ -24,10 +24,25 @@
     font-size: 5rem;
     text-align: center;
     width: 80%;
-    margin: 0 auto;
-    padding-top: 120px;
     text-transform: uppercase;
     color: #fff;
     position: relative;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#hero h1 span{
+    font-size: 1rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.75rem;
+    background-color: lightgreen;
+    color: black;
+
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 150px;
     z-index: 1;
 }
