@@ -1,0 +1,17 @@
+body{
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+}
+
+.short-text{
+    background-color: rgb(62, 62, 62);
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+main{
+    width: 30%;
+    margin: 10px;
+}
