@@ -2,6 +2,7 @@ body{
     width: 60%;
     margin: auto;
     margin-top: 40px;
+    font-family: Helvetica, sans-serif;
 }
 
 hr{
@@ -16,4 +17,17 @@ img{
     border: 5px solid;
     padding: 5px;
     margin-left: 10px;
+}
+
+.left-text{
+    display: grid;
+    grid-template-columns: 500px 100px 500px;
+    position: relative;
+    
+}
+.two{
+    color: #919191;
+}
+.in-grid{
+    color: #919191;
 }
