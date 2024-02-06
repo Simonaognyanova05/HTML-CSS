@@ -3,6 +3,7 @@ body{
     margin: auto;
     margin-top: 40px;
     font-family: Helvetica, sans-serif;
+    background-color: rgb(255, 248, 221);
 }
 
 hr{
@@ -11,8 +12,15 @@ hr{
 main{
     display: inline-block;
 }
-img{
+.picture1{
     float: right;
+    width: 150px;
+    border: 5px solid;
+    padding: 5px;
+    margin-left: 10px;
+}
+.picture2{
+    float: left;
     width: 150px;
     border: 5px solid;
     padding: 5px;
@@ -24,6 +32,9 @@ img{
     grid-template-columns: 500px 100px 500px;
     position: relative;
     
+}
+.right-text img{
+    margin-right: 30px;
 }
 .two{
     color: #919191;
