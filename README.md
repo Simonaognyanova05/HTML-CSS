@@ -1,3 +1,3 @@
 # HTML-CSS
 
-These are tasks from HTML and CSS course
+These are tasks from HTML and CSS course.
